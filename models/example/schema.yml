@@ -1,0 +1,14 @@
+
+version: 2
+
+models:
+  - name: top_paying_customers
+    description: "Top 10 customers that spends the most"
+#    columns:
+#      - name: id
+#        description: "The primary key for this table"
+#        tests:
+#          - unique
+#          - not_null
+  - name: revenue_ma
+    description: "5-day moving average of revenue"
