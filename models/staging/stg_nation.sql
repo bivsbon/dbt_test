@@ -1,0 +1,1 @@
+select * from snowflake.TPCH_SF1.NATION limit 1000

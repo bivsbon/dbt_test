@@ -1,0 +1,1 @@
+select * from snowflake.TPCDS_SF100TCL.STORE_SALES limit 1000

@@ -1,0 +1,8 @@
+
+version: 2
+
+models:
+  - name: pricing_summary
+    description: "This query reports the amount of business that was billed, shipped, and returned"
+  - name: min_cost_supplier
+    description: "This query finds which supplier should be selected to place an order for a given part in a given region"

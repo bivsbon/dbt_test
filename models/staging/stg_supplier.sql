@@ -1,0 +1,1 @@
+select * from snowflake.TPCH_SF1.SUPPLIER limit 1000
